@@ -21,3 +21,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=orange)
+
+---
+An interactive Principal Component Analysis (PCA) visualization built with React and Vite.
+
+🔗 Live site: https://sumuko98.github.io/PCA/
