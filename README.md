@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🤖 **Machine Learning Engineer** (Python, PyTorch, TensorFlow)
+- 🤖 **Data Scientist** (NumPy, SciPy, Pandas, TensorFlow)
 - ⚙️ **MLOps Enthusiast** (Docker, Kubernetes, MLflow)
 - 🧪 **Guest researcher** at **MPI-MP**
 - 🚀 Passionate about **Deep Learning** and **Neural Networks**
-- 🔍 Looking for opportunities in **Machine Learning Research & Development**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
